@@ -1,0 +1,7 @@
+@echo off
+echo Running Bandit security scan...
+bandit -r . -f csv -o bandit_report.csv
+if %ERRORLEVEL% NEQ 0 (
+    echo Bandit found issues. Commit aborted.
+    exit /b 1
+)
