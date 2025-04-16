@@ -1,0 +1,24 @@
+name: Run Fuzzer
+
+on: [push, pull_request]
+
+jobs:
+  fuzz:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install ruamel.yaml sarif-om jschema-to-python
+
+    - name: Run fuzz tests
+      run: python fuzz.py
