@@ -1,0 +1,824 @@
+2025-04-15 22:10:39,365 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,366 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,366 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,366 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,366 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,366 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,366 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,366 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,366 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,366 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,367 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,367 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,367 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,367 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,367 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,368 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,368 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,368 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,368 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,368 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,368 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,368 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,368 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,368 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,368 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,368 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,368 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,368 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,368 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,368 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,368 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,368 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,368 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,368 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,368 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,369 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,369 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,369 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,369 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,369 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,369 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,369 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,369 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,369 - INFO - isValidPasswordName() called with: BrMQck5hl7
+2025-04-15 22:10:39,369 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,369 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,369 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,369 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,369 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,370 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,370 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,370 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,370 - INFO - isValidPasswordName() called with: VLEdg4Nsvo
+2025-04-15 22:10:39,370 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,370 - INFO - checkIfValidSecret() called with: Eny9SsSCzb
+2025-04-15 22:10:39,370 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,370 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,370 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,370 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,370 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,370 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,371 - INFO - isValidPasswordName() called with: VViohOwfxE
+2025-04-15 22:10:39,371 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,371 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,371 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,371 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,371 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,371 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,371 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,371 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,371 - INFO - isValidPasswordName() called with: 1VjfmUvt0K
+2025-04-15 22:10:39,371 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,371 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,371 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,371 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,372 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,372 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,372 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,372 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,372 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,372 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,372 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,372 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,372 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,372 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,372 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,372 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,372 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,372 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,373 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,373 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,373 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,373 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,373 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,373 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,373 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,373 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,373 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,373 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,374 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,374 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,374 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,374 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,374 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,374 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,374 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,374 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,374 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,374 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,375 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,375 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,375 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,375 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,375 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,375 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,375 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,376 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,376 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,376 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,376 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,376 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,376 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,376 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,376 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,376 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,377 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,377 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,377 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,377 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,377 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,377 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,377 - INFO - isValidUserName() called with: vEf3sncnKa
+2025-04-15 22:10:39,377 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,377 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,378 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,378 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,378 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,378 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,378 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,378 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,378 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,378 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,378 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,378 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,378 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,378 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,379 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,379 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,379 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,379 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,379 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,379 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,379 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,379 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,379 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,379 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,379 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,379 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,379 - INFO - checkIfValidSecret() called with: ZlrCfRPTkT
+2025-04-15 22:10:39,380 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,380 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,380 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,380 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,380 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,380 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,380 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,380 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,380 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,380 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,380 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,380 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,380 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,381 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,381 - INFO - isValidPasswordName() called with: pKHDOItRhr
+2025-04-15 22:10:39,381 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,381 - INFO - checkIfValidSecret() called with: Mg9HDWJGtj
+2025-04-15 22:10:39,381 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,381 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,381 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,381 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,381 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,381 - INFO - isValidUserName() called with: KwPwhxORa1
+2025-04-15 22:10:39,381 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,381 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,381 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,382 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,382 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,382 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,382 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,382 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,382 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,382 - INFO - isValidPasswordName() called with: XgjriiaU93
+2025-04-15 22:10:39,382 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,382 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,383 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,383 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,383 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,383 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,383 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,383 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,384 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,384 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,384 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,384 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,384 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,384 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,384 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,384 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,384 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,385 - INFO - checkIfValidSecret() called with: xODJlPKZHs
+2025-04-15 22:10:39,385 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,385 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,385 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,385 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,385 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,385 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,385 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,385 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,386 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,386 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,386 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,386 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,386 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,386 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,386 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,386 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,386 - INFO - checkIfValidSecret() called with: OCPUjEd7th
+2025-04-15 22:10:39,386 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,386 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,386 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,387 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,387 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,387 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,387 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,387 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,387 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,387 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,387 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,387 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,387 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,387 - INFO - isValidUserName() called with: eTRpoMWx3Q
+2025-04-15 22:10:39,387 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,387 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,387 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,387 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,388 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,388 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,388 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,388 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,388 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,388 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,388 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,388 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,388 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,388 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,388 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,388 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,389 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,389 - INFO - isValidPasswordName() called with: n4IrulVU7g
+2025-04-15 22:10:39,389 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,389 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,389 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,389 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,389 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,389 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,389 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,389 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,389 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,389 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,389 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,390 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,390 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,390 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,390 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,390 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,390 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,390 - INFO - checkIfValidSecret() called with: xvVMk4zy5B
+2025-04-15 22:10:39,390 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,390 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,390 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,390 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,391 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,391 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,391 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,391 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,391 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,391 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,391 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,391 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,391 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,391 - INFO - isValidUserName() called with: eTAvYOSUfi
+2025-04-15 22:10:39,391 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,392 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,392 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,392 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,392 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,392 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,392 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,392 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,392 - INFO - isValidUserName() called with: nMPV3kcrlz
+2025-04-15 22:10:39,392 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,392 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,392 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,392 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,393 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,393 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,393 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,393 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,393 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,393 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,393 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,393 - INFO - checkIfValidSecret() called with: PYli0T0tHs
+2025-04-15 22:10:39,393 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,393 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,393 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,393 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,393 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,393 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,393 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,394 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,394 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,394 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,394 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,394 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,394 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,394 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,394 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,394 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,394 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,395 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,395 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,395 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,395 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,395 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,395 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,395 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,395 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,395 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,395 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,395 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,395 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,396 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,396 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,396 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,396 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,396 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,396 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,396 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,396 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,396 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,396 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,396 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,396 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,397 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,397 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,397 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,397 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,397 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,397 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,397 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,397 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,398 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,398 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,398 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,398 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,398 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,398 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,399 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,399 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,399 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,399 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,399 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,399 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,399 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,399 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,399 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,399 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,400 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,400 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,400 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,400 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,400 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,400 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,400 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,400 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,400 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,400 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,400 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,401 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,401 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,401 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,401 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,401 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,401 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,401 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,401 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,401 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,401 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,401 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,401 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,401 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,401 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,402 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,402 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,402 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,402 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,402 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,402 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,402 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,402 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,402 - INFO - isValidUserName() called with: qNAbzxh71E
+2025-04-15 22:10:39,402 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,402 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,402 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,403 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,403 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,403 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,403 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,403 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,403 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,403 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,403 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,403 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,403 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,403 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,403 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,403 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,404 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,404 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,404 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,404 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,404 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,404 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,404 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,404 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,404 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,404 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,405 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,405 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,405 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,405 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,405 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,405 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,405 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,405 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,405 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,406 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,406 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,406 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,406 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,406 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,406 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,406 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,406 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,406 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,406 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,406 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,406 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,406 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,407 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,407 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,407 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,407 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,407 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,407 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,407 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,407 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,407 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,407 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,408 - INFO - isValidPasswordName() called with: XNfPAJKcFi
+2025-04-15 22:10:39,408 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,408 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,408 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,408 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,408 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,408 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,408 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,408 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,408 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,408 - INFO - checkIfValidSecret() called with: sypKu7xZoi
+2025-04-15 22:10:39,408 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,408 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,409 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,409 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,409 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,409 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,409 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,409 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,409 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,409 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,409 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,409 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,409 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,409 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,409 - INFO - isValidUserName() called with: A9tME8jxa6
+2025-04-15 22:10:39,410 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,410 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,410 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,410 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,410 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,410 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,410 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,410 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,410 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,410 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,410 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,411 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,411 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,411 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,411 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,411 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,411 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,411 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,411 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,411 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,411 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,412 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,412 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,412 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,412 - INFO - isValidPasswordName() called with: jXwEHNuvZx
+2025-04-15 22:10:39,412 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,412 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,413 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,413 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,413 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,413 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,413 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,413 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,413 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,414 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,414 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,414 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,414 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,414 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,414 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,414 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,414 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,414 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,414 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,415 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,415 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,415 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,415 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,415 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,415 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,415 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,415 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,416 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,416 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,416 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,416 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,416 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,416 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,416 - INFO - isValidPasswordName() called with: {}
+2025-04-15 22:10:39,416 - INFO - checkIfValidSecret() called with: E7dmr0BwlI
+2025-04-15 22:10:39,416 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,416 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,416 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,417 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,417 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,417 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,417 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,417 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,417 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,417 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,417 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,417 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,417 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,417 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,417 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,418 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,418 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,418 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,418 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,418 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,418 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,418 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,418 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,418 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,418 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,418 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,418 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,419 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,419 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,419 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,419 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,419 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,419 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,419 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,419 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,419 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,419 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,420 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,420 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,420 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,420 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,420 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,420 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,420 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,420 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,420 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,421 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,421 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,421 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,421 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,421 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,421 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,421 - INFO - isValidUserName() called with: 0fEC8Ro2gX
+2025-04-15 22:10:39,421 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,421 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,421 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,421 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,421 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,422 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,422 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,422 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,422 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,422 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,422 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,422 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,422 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,423 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,423 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,423 - INFO - isValidUserName() called with: C3uiMP4juW
+2025-04-15 22:10:39,423 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,423 - INFO - isValidPasswordName() called with: HKRmYkhRfG
+2025-04-15 22:10:39,423 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,423 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,423 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,423 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,423 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,424 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,424 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,424 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,424 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,424 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,424 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,424 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,424 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,424 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,424 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,424 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,425 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,425 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,425 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,425 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,425 - INFO - checkIfValidSecret() called with: mVJdmDqIQC
+2025-04-15 22:10:39,425 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,425 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,425 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,425 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,425 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,425 - INFO - isValidUserName() called with: oPjPtX1M1s
+2025-04-15 22:10:39,425 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,425 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,426 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,426 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,426 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,426 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,426 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,426 - INFO - isValidUserName() called with: []
+2025-04-15 22:10:39,426 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,426 - INFO - checkIfValidSecret() called with: jM0SgtBdl9
+2025-04-15 22:10:39,426 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,426 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,426 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,426 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,427 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,427 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,427 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,427 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,427 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,427 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,427 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,427 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,427 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,427 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,428 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,428 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,428 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,428 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,428 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,428 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,428 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,428 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,428 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,428 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,429 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,429 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,429 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,429 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,429 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,429 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,429 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,429 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,430 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,430 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,430 - INFO - checkIfWeirdYAML() called with: not_a_path
+2025-04-15 22:10:39,430 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,430 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,430 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,430 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,430 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,430 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,430 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,430 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,431 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,431 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,431 - INFO - isValidUserName() called with: 123
+2025-04-15 22:10:39,431 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,431 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,431 - INFO - checkIfValidSecret() called with:  
+2025-04-15 22:10:39,431 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,431 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,431 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,431 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,431 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,431 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,432 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,432 - INFO - checkIfValidSecret() called with: admin
+2025-04-15 22:10:39,432 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,432 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,432 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,432 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,432 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,432 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,432 - INFO - isValidPasswordName() called with: []
+2025-04-15 22:10:39,432 - INFO - checkIfValidSecret() called with: 
+2025-04-15 22:10:39,432 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,432 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,433 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,433 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,433 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,433 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,433 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,433 - INFO - checkIfValidSecret() called with: HbTQJnhyxH
+2025-04-15 22:10:39,433 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,433 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,433 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,433 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,433 - INFO - checkIfValidHelm result: True
+2025-04-15 22:10:39,433 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,434 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,434 - INFO - isValidPasswordName() called with: 7zmmAt3E4q
+2025-04-15 22:10:39,434 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,434 - INFO - checkIfValidSecret() called with: None
+2025-04-15 22:10:39,434 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,434 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,434 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,434 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,434 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,435 - INFO - isValidPasswordName() called with: 456
+2025-04-15 22:10:39,435 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,435 - INFO - checkIfWeirdYAML() called with: /my/app/config.yaml
+2025-04-15 22:10:39,435 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,435 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,435 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,435 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,436 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,436 - INFO - isValidPasswordName() called with: pNr61C39VJ
+2025-04-15 22:10:39,436 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,436 - INFO - checkIfValidSecret() called with: FWEIUOvOBD
+2025-04-15 22:10:39,436 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,436 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,436 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,436 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,436 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,437 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,437 - INFO - isValidPasswordName() called with: pass
+2025-04-15 22:10:39,437 - INFO - isValidPasswordName result: True
+2025-04-15 22:10:39,437 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,437 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,437 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,437 - INFO - checkIfValidHelm() called with: /chart/configs/deploy/values.yaml
+2025-04-15 22:10:39,437 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,437 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,437 - INFO - isValidPasswordName() called with: ZtLF3IAo9a
+2025-04-15 22:10:39,437 - INFO - isValidPasswordName result: False
+2025-04-15 22:10:39,438 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,438 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,438 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,438 - INFO - checkIfValidHelm() called with: script.py
+2025-04-15 22:10:39,438 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,438 - INFO - isValidUserName() called with: None
+2025-04-15 22:10:39,438 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,438 - INFO - checkIfValidSecret() called with: 1234
+2025-04-15 22:10:39,438 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,438 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,438 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,438 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,438 - INFO - isValidUserName() called with: 
+2025-04-15 22:10:39,439 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,439 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,439 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,439 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,439 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,439 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,439 - INFO - checkIfValidHelm() called with: 
+2025-04-15 22:10:39,439 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,439 - INFO - isValidUserName() called with: True
+2025-04-15 22:10:39,439 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,439 - INFO - checkIfValidSecret() called with: 7P7RZ82BEe
+2025-04-15 22:10:39,439 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,439 - INFO - checkIfWeirdYAML() called with: None
+2025-04-15 22:10:39,440 - ERROR - Exception in checkIfWeirdYAML: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,440 - INFO - checkIfValidHelm() called with: None
+2025-04-15 22:10:39,440 - ERROR - Exception in checkIfValidHelm: argument of type 'NoneType' is not iterable
+2025-04-15 22:10:39,440 - INFO - isValidUserName() called with: LkD9f3dFyt
+2025-04-15 22:10:39,440 - INFO - isValidUserName result: False
+2025-04-15 22:10:39,440 - INFO - isValidPasswordName() called with: False
+2025-04-15 22:10:39,440 - INFO - checkIfValidSecret() called with: token123
+2025-04-15 22:10:39,440 - INFO - checkIfValidSecret result: True
+2025-04-15 22:10:39,440 - INFO - checkIfWeirdYAML() called with: .github/workflows/config.yml
+2025-04-15 22:10:39,440 - INFO - checkIfWeirdYAML result: False
+2025-04-15 22:10:39,441 - INFO - checkIfValidHelm() called with: services.yaml
+2025-04-15 22:10:39,441 - INFO - checkIfValidHelm result: False
+2025-04-15 22:10:39,441 - INFO - isValidUserName() called with: {}
+2025-04-15 22:10:39,441 - INFO - isValidPasswordName() called with: None
+2025-04-15 22:10:39,441 - INFO - checkIfValidSecret() called with: QkDrKHf4RP
+2025-04-15 22:10:39,441 - INFO - checkIfValidSecret result: False
+2025-04-15 22:10:39,441 - INFO - checkIfWeirdYAML() called with: 12345
+2025-04-15 22:10:39,441 - ERROR - Exception in checkIfWeirdYAML: argument of type 'int' is not iterable
+2025-04-15 22:10:39,441 - INFO - checkIfValidHelm() called with: charts/helm/values.yaml
+2025-04-15 22:10:39,442 - INFO - checkIfValidHelm result: True
