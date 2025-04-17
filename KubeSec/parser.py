@@ -24,14 +24,23 @@ base_path = r" "
 key_jsonpath_mapping = {}
 
     
-def checkIfWeirdYAML(pathToCheck):
+def checkIfWeirdYAML(pathToCheck):  
+    # Log that the function has been called along with the input value
     logger.info(f"checkIfWeirdYAML() called with: {pathToCheck}")
+    
     try:
+        # Check if the file path contains both ".yaml" and "github"
+        # This is used to detect potentially suspicious or configuration-related GitHub YAML files
         result = (".yaml" in pathToCheck) and ("github" in pathToCheck)
+
+        # Log the result of the check for forensic analysis
         logger.info(f"checkIfWeirdYAML result: {result}")
         return result
     except Exception as e:
+        # If an exception occurs (e.g., pathToCheck is None or not a string), log the error
         logger.error(f"Exception in checkIfWeirdYAML: {e}")
+    
+    # Return False if an error occurs or if the condition isn't met
     return False 
 
 
@@ -131,14 +140,24 @@ def getValsFromKey(dict_, target, list_holder  ):
                         getValsFromKey(ls, target, list_holder)
 
 def checkIfValidHelm(pathToCheck):
+    # Log the input value for forensic tracking
     logger.info(f"checkIfValidHelm() called with: {pathToCheck}")
+    
     try:
+        # Determine if the input path refers to a Helm chart configuration
+        # A valid Helm path typically contains either "helm" or "charts"
         result = "helm" in pathToCheck or "charts" in pathToCheck
+
+        # Log the result of the check for auditing and debugging
         logger.info(f"checkIfValidHelm result: {result}")
         return result
     except Exception as e:
+        # Log any exceptions encountered during execution (e.g., if pathToCheck is not a string)
         logger.error(f"Exception in checkIfValidHelm: {e}")
+    
+    # Return False if the check fails or an error occurs
     return False
+
 
 # This function checks whether our parser throws an exception for reading the YAML file. 
 def checkParseError( path_script ):
