@@ -74,26 +74,46 @@ def getYAMLFiles(path_to_dir):
     return valid_ 
 
 def isValidUserName(valToCheck):
+    # Log the input value when the function is called
     logger.info(f"isValidUserName() called with: {valToCheck}")
+
     try:
+        # Check if the input is a string before applying further checks
         if isinstance(valToCheck, str):
+            # Convert to lowercase and check if it contains the word "user"
             result = ("user" in valToCheck.lower())
+
+            # Log the result of the check
             logger.info(f"isValidUserName result: {result}")
             return result
     except Exception as e:
+        # Log any exceptions encountered during the check
         logger.error(f"Exception in isValidUserName: {e}")
+
+    # Return False if the check fails or an exception occurs
     return False
 
+
 def isValidPasswordName(valToCheck):
+    # Log the input value when the function is called
     logger.info(f"isValidPasswordName() called with: {valToCheck}")
+
     try:
+        # Check if the input is a string before applying further checks
         if isinstance(valToCheck, str):
+            # Convert to lowercase and check if it contains the word "pass"
             result = ("pass" in valToCheck.lower())
+
+            # Log the result of the check
             logger.info(f"isValidPasswordName result: {result}")
             return result
     except Exception as e:
+        # Log any exceptions encountered during the check
         logger.error(f"Exception in isValidPasswordName: {e}")
+
+    # Return False if the check fails or an exception occurs
     return False
+
 
 def isValidKey(keyName): 
     valid = False 
@@ -107,15 +127,26 @@ def isValidKey(keyName):
     return valid    
 
 def checkIfValidSecret(valToCheck):
+    # Log the input value for forensic tracking and auditing
     logger.info(f"checkIfValidSecret() called with: {valToCheck}")
+
     try:
+        # Proceed only if the input is a string
         if isinstance(valToCheck, str):
+            # Check if the input string contains any keywords that typically indicate a secret
+            # Keywords being checked: "token", "admin", or "aws"
             result = any(sub in valToCheck.lower() for sub in ["token", "admin", "aws"])
+
+            # Log the result of the secret validation check
             logger.info(f"checkIfValidSecret result: {result}")
             return result
     except Exception as e:
+        # Log any exception that occurs during the check for diagnostics
         logger.error(f"Exception in checkIfValidSecret: {e}")
+
+    # Return False if the input is invalid or an exception occurs
     return False
+
 
 def scanUserName(k_ , val_lis ):
     hard_coded_unames = []
